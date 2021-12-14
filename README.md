@@ -12,6 +12,6 @@ My gulp assembly, assembled on the basis of https://youtu.be/stFOy0Noahg
 7. gulp
 
 # Commands
-gulp webp - converts project pictures into *.webp
-gulp otf2ttf - converts otf2 to ttf
-gulp svgSprite - creates svg sprites
+1. gulp webp - converts project pictures into *.webp
+2. gulp otf2ttf - converts otf2 to ttf
+3. gulp svgSprite - creates svg sprites
